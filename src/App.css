@@ -137,13 +137,13 @@
 
 .slider{
     height: 40px;
-    color: red;
-    border: 2px solid red;
+    color: rgb(192, 67, 67);
+    border: 2px solid rgb(50, 50, 50);
     border-radius: 20px;
 }
 
 .thumb{
-    background-color: red;
+    background-color: rgb(192, 67, 67);
     color: red;
     cursor:pointer;
     width:40px;
